@@ -26,3 +26,19 @@ Successfully engineered and deployed a fully functional, virtualized Security Op
    ```powershell
    net user AttackerAdmin Password123! /add
    net localgroup administrators AttackerAdmin /add
+   SIEM Detection: The Wazuh Agent instantly intercepted the event logs and escalated a Critical Level 12 Alert:
+
+Rule ID 60109: User account created (Event ID 4720).
+
+Rule ID 60154: Administrators local group altered (Event ID 4732).
+
+Compliance Mapping: Correlated directly with NIST 800-53 AC.2 (Account Management) and IA.4 (Identifier Management).
+
+🎯 Key Skills Demonstrated
+SIEM/XDR Deployment & Engineering (Wazuh configuration, Agent registration).
+
+Incident Response Automation (Orchestrating Active Response & firewall drops).
+
+Cross-Platform Log Analysis (Windows Event Logs Event ID 4720/4732 & Linux Auth logs).
+
+Regulatory Compliance Mapping (NIST 800-53 Framework integration).
