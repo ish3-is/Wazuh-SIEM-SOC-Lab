@@ -1,3 +1,14 @@
+<img width="1280" height="1392" alt="لقطة شاشة 2026-05-29 184216" src="https://github.com/user-attachments/assets/eedf1155-cfcd-4fdf-8129-03f588e6a3d7" />
+<img width="1280" height="1392" alt="لقطة شاشة 2026-05-29 184240" src="https://github.com/user-attachments/assets/b93d0e12-ad3f-4dc8-b885-3970f98242e8" />
+<img width="802" height="686" alt="لقطة شاشة 2026-05-29 184245" src="https://github.com/user-attachments/assets/90b9d95f-8cf6-43fe-9c2a-cc6ee9ecea4b" />
+<img width="1280" height="1392" alt="لقطة شاشة 2026-05-29 184259" src="https://github.com/user-attachments/assets/a4ae83fe-aca1-4e4b-bbb0-d042fc2425ae" />
+<img width="1280" height="1392" alt="لقطة شاشة 2026-05-29 184308" src="https://github.com/user-attachments/assets/ddc5b409-83a7-44ba-8b3e-b884f062f0dd" />
+<img width="1280" height="1392" alt="لقطة شاشة 2026-05-29 184318" src="https://github.com/user-attachments/assets/01d244ed-44c5-4f3a-ab1e-449192b467d2" />
+<img width="1280" height="1392" alt="لقطة شاشة 2026-05-29 184323" src="https://github.com/user-attachments/assets/cf0d15fe-98d3-483a-aef5-3d66a0580887" />
+<img width="2555" height="1439" alt="لقطة شاشة 2026-05-29 185104" src="https://github.com/user-attachments/assets/aa89b9a9-df60-4ebd-ac24-e74c97900b48" />
+<img width="1280" height="1392" alt="لقطة شاشة 2026-05-30 120721" src="https://github.com/user-attachments/assets/90865612-d3cc-47b7-b358-6afcf39fefc1" />
+<img width="1280" height="1392" alt="لقطة شاشة 2026-05-30 120738" src="https://github.com/user-attachments/assets/4477af52-f96a-4e64-97e1-da78efccc5cf" />
+<img width="1280" height="1392" alt="لقطة شاشة 2026-05-29 184204" src="https://github.com/user-attachments/assets/5dba9513-c664-4d65-afce-69e0eeda9069" />
 # Building an Enterprise SOC Lab with Wazuh SIEM/XDR & Active Cyber Response
 
 ## 📌 Project Overview
